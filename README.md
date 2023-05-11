@@ -38,8 +38,8 @@
 
 <div id="stats">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=vitorfehelberg&theme=apprentice&bg_color=00000000&hide_border=true&rank_icon=github&custom_title=Fehelberg's%20stats" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfehelberg&theme=apprentice&bg_color=00000000&hide_border=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=vitorfehelberg&theme=apprentice&title_color=bcbcbc&bg_color=00000000&hide_border=true&rank_icon=github&custom_title=Fehelberg's%20stats" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorfehelberg&theme=apprentice&title_color=bcbcbc&bg_color=00000000&hide_border=true" />
   </a>
 </div>
 
